@@ -57,8 +57,9 @@ accuracy
 ![9(1)](https://github.com/Mukteswara/Implementation-of-SVM-For-Spam-Mail-Detection/assets/162081121/365f9fd6-03b1-4b56-8f19-bc4d34a4bb28)
 ![9(2)](https://github.com/Mukteswara/Implementation-of-SVM-For-Spam-Mail-Detection/assets/162081121/6a75db7b-0615-4320-8a6e-32e76523dc99)
 ![9(3)](https://github.com/Mukteswara/Implementation-of-SVM-For-Spam-Mail-Detection/assets/162081121/d9862143-5a3e-4753-b3f0-97d1f011c777)
-![9(4)](https://github.com/Mukteswara/Implementation-![9(5)](https://github.com/Mukteswara/Implementation-of-SVM-For-Spam-Mail-Detection/assets/162081121/7f58cb3b-1d4b-4cef-920b-f509818d3cbe)
-of-SVM-For-Spam-Mail-Detection/assets/162081121/49cc1ed9-0e01-40bc-9ee7-f9c8e85be237)
+![9(4)](https://github.com/Mukteswara/Implementation-of-SVM-For-Spam-Mail-Detection/assets/162081121/f693c283-1dc8-4267-b140-c4404b74bbc9)
+![9(5)](https://github.com/Mukteswara/Implementation-of-SVM-For-Spam-Mail-Detection/assets/162081121/1e486140-ff9f-4133-a8d1-db87c65b75de)
+
 
 
 
